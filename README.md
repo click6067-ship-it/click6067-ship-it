@@ -28,9 +28,12 @@
 ---
 
 ## 🛠 Tech Stack
-- Web / Backend: **PHP, Next.js, React, TypeScript, Tailwind CSS**
+
+- Web: **PHP, Next.js (React), TypeScript**
+- Workflow: **n8n**
 - Data / ML: **Python, R, MATLAB, MySQL**
 - Dev & OS: **Linux (Ubuntu)**
+
 
 ---
 
