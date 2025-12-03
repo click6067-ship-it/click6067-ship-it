@@ -39,7 +39,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Workflow / Automation
+### Workflow 
 
 ![n8n](https://img.shields.io/badge/n8n-EA4A4A?style=flat-square&logo=n8n&logoColor=white)
 
@@ -57,7 +57,6 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-
 
 ---
 
