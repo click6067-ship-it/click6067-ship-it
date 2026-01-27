@@ -11,8 +11,8 @@
 
 ## 🏆 Experience & Awards
 
-- **2025 통계청 웹사이트 유지보수 및 피드백 모니터단**  
-  (2025.03.01 ~ 2025.12.31)
+- **2025 국가데이터처 (https://mods.go.kr/) 웹사이트 유지보수 및 피드백 모니터단**  
+  (2025.03.01 ~ 2025.12.01)
   
 - **학생 창업 유망 경진대회 교육부 장관상**  
   (2025.10.17)
@@ -23,7 +23,6 @@
 - **창업 아이디어 해커톤 경진대회 부산대학교 총장상 (최우수상)**  
   (2025.11.21 ~ 11.22)
   
-- **부산대학교 우수 창업동아리 선정**, 운영지원금 확보
 
 ---
 
@@ -35,7 +34,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Workflow 
@@ -57,6 +55,7 @@
 ---
 
 ## 🎓 Certificates
+- Google Data Analytics 수료
 - 정보처리기사
 - 빅데이터분석기사
 - SQLD
