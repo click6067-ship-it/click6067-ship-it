@@ -55,7 +55,7 @@ FE·DS·ML
 ---
 
 ## 🎓 Certificates
-- Google Data Analytics 수료
+- Google Data Analytics 
 - 정보처리기사
 - 빅데이터분석기사
 - SQLD
