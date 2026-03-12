@@ -4,6 +4,7 @@ FE·DS·ML
 ---
 
 ## 🧑‍💻 About
+- https://yongha-kim-frontier.vercel.app/
 - 팀 Lemon Aid 백엔드 개발 담당
 - 웹 개발과 DS·의료AI 기반 ML을 함께 다룹니다.
 
