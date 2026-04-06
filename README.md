@@ -5,7 +5,7 @@ FE·DS·ML·AI
 
 ## 🧑‍💻 About
 
-- yonghakim.com
+- <https://yonghakim.com>
 - 팀 Lemon Aid 백엔드 개발 담당
 - 웹 개발과 DS·ML을 함께 다룹니다.
 
