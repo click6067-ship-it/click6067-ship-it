@@ -79,6 +79,6 @@ FE·DS·ML·AI
 - SQLD
 - ADsP
 - Network Advisor 2
-- NVIDIA Deep Learning Institute 
+- NVIDIA DLI
 - KoreaBIO 체외진단 의료기기 임상통계 실무 
 - PNU AI Agent Hackathon 2025 
