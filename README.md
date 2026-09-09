@@ -8,7 +8,7 @@ FE·DS·ML·AI
 - <https://yonghakim.com>
 - 팀 Lemon Aid 개발지원
 - 팀 골든타임 개발지원
-- 웹 개발과 DS·ML을 함께 다룹니다.
+- DS·ML을 함께 다룹니다.
 
 ---
 
@@ -33,14 +33,11 @@ FE·DS·ML·AI
   (2026.06.02)
 
 - **NVIDIA Deep Learning PBL 우수상**  
-  (2026.07.20 · 부산대학교 AI융합교육원 / 한컴이노스트림)
+  (2026.07.20)
 
 - **제7회 PNU 창의융합AI해커톤 우수상**  
   (예선 2026.05.21 / 본선 2026.08.28)
 
-
-- 모두의 창업 1차 통과/ 2차 진행중
-- 핀넥트 1차 통과/ 2차 진행중
 - 의대 교육혁신 도구개발 과제 진행중
 
 
@@ -82,6 +79,6 @@ FE·DS·ML·AI
 - SQLD
 - ADsP
 - Network Advisor 2
-- NVIDIA Deep Learning Institute (135H)
-- KoreaBIO 체외진단 의료기기 임상통계 실무 (12H)
-- PNU AI Agent Hackathon 2025 수료
+- NVIDIA Deep Learning Institute 
+- KoreaBIO 체외진단 의료기기 임상통계 실무 
+- PNU AI Agent Hackathon 2025 
