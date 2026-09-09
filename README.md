@@ -32,10 +32,15 @@ FE·DS·ML·AI
 - **2026 청년창조발전소 4회 경진대회 우수상**  
   (2026.06.02)
 
+- **NVIDIA Deep Learning PBL 우수상**  
+  (2026.07.20 · 부산대학교 AI융합교육원 / 한컴이노스트림)
+
+- **제7회 PNU 창의융합AI해커톤 우수상**  
+  (예선 2026.05.21 / 본선 2026.08.28)
+
 
 - 모두의 창업 1차 통과/ 2차 진행중
 - 핀넥트 1차 통과/ 2차 진행중
-- 창의융합 AI해커톤 예선 통과/ 본선 진행중
 - 의대 교육혁신 도구개발 과제 진행중
 
 
@@ -54,7 +59,7 @@ FE·DS·ML·AI
 
 ### Workflow 
 
-![n8n](https://img.shields.io/badge/n8n-EA4A4A?style=flat-square&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 ### Data / ML
 
@@ -78,3 +83,6 @@ FE·DS·ML·AI
 - SQLD
 - ADsP
 - Network Advisor 2
+- NVIDIA Deep Learning Institute (135H)
+- KoreaBIO 체외진단 의료기기 임상통계 실무 (12H)
+- PNU AI Agent Hackathon 2025 수료
